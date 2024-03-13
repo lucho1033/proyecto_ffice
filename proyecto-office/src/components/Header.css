@@ -1,0 +1,11 @@
+/* src/components/Header.css */
+.header {
+    display: flex;
+    color: black;
+    padding:5vh;
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-bottom: 1px;
+    
+  }
+  
